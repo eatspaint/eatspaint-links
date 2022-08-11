@@ -12,8 +12,12 @@ const SOURCE = [
     title: "Guitar drills thing",
   },
   {
+    href: "https://eatspaint.art",
+    title: "Code Art (Canvas)",
+  },
+  {
     href: "https://idontwatchfootball.com",
-    title: "Code Art",
+    title: "Code Art (p5.js)",
   },
   {
     href: "https://soundcloud.com/eatspaint/sets/2020-2021-collected",
