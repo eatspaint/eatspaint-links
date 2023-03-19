@@ -12,6 +12,10 @@ const SOURCE = [
     title: "Guitar drills thing",
   },
   {
+    href: "https://spotify-explore.eatspaint.com",
+    title: "Spotify exploration",
+  },
+  {
     href: "https://eatspaint.art",
     title: "Code Art (Canvas)",
   },
