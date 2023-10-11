@@ -35,7 +35,7 @@ function App() {
       <div className="content">
         <img
           className="pfp"
-          src="/IMG_0452.png"
+          src="/pfp.png"
           alt="mirror selfie in a cathedral"
         />
         <h1>eatspaint online</h1>
